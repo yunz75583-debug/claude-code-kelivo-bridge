@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-kelivo-bridge",
+  "version": "1.0.0",
+  "description": "Bridge between Kelivo and Claude Code CLI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  }
+}
